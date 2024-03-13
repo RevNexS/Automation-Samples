@@ -4,7 +4,7 @@ UNGM Tender Data Mining
 This is a script that fetches all tenders for given days from UNGM. And Stores it in DB and output.csv.
 Intension of this script is to show Data Mining process. The same methodologies can be used for Other ETL process.
 
-Dir Structure:
+Directory Structure:
 Scripts : contains Webscrapper 
 Html : contains HTML output. This can be used to show same on website to customer. And output.csv
 
