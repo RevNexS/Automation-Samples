@@ -25,6 +25,7 @@ https://marketplace.visualstudio.com/items?itemName=qwtel.sqlite-viewer
 
 
 Dir Structure:
+
 Scripts : contains Webscrapper 
 Html : contains HTML output. This can be used to show same on website to customer. And output.csv
 
