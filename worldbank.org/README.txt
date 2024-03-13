@@ -4,6 +4,11 @@ Worldbank Tender Data Mining
 This is a script that fetches all tenders for given days from Worldbank. And Stores it in DB and output.csv.
 Intension of this script is to show Data Mining process using REST API. The same methodologies can be used for Other ETL process.
 
+dir Structure:
+Scripts : contains Webscrapper 
+Output : contains HTML output. This can be used to show same on website to customer. And output.csv
+Library : Contains other modules required for stuff like database connection, Translator, and other helper modules.
+main.py : Code starts from here.
 
 How to run:
 There are run.ps1 file. You can run this using powershell.
@@ -22,13 +27,6 @@ Output: (Both files are generated on first run. Though there is copy incase you 
 After running please dont forget to check output.csv . 
 If you also wanna check DB you can do so using SQLite Viewer Extension of VS Code.
 https://marketplace.visualstudio.com/items?itemName=qwtel.sqlite-viewer
-
-
-Dir Structure:
-Scripts : contains Webscrapper 
-Output : contains HTML output. This can be used to show same on website to customer. And output.csv
-Library : Contains other modules required for stuff like database connection, Translator, and other helper modules.
-main.py : Code starts from here.
 
 If you face any issue. Feel free to reach at choudharysahil0447@gmail.com
 Best Regards : Sahil Choudhary.
