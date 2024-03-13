@@ -4,7 +4,7 @@ Worldbank Tender Data Mining
 This is a script that fetches all tenders for given days from Worldbank. And Stores it in DB and output.csv.
 Intension of this script is to show Data Mining process using REST API. The same methodologies can be used for Other ETL process.
 
-dir Structure:
+Directory Structure:
 Scripts : contains Webscrapper 
 Output : contains HTML output. This can be used to show same on website to customer. And output.csv
 Library : Contains other modules required for stuff like database connection, Translator, and other helper modules.
