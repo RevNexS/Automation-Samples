@@ -8,7 +8,6 @@ Dir Structure:
 Scripts : contains Webscrapper 
 Html : contains HTML output. This can be used to show same on website to customer. And output.csv
 
-
 How to run:
 There are run.ps1 file. You can run this using powershell.
 It will create venv.
